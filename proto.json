@@ -219,6 +219,9 @@
     },
     "syft.execution.storage_actions.StorageAction": {
       "code": 67
+    },
+    "syft.federated.model_config.ModelConfig": {
+      "code": 68   
     }
   }
 }
